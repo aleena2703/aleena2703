@@ -4,11 +4,11 @@
 
 I hold a B.Tech in Computer Science and Engineering and have further strengthened my analytical skills through a Data Science with Python certification program.
 
-My passion for data analytics has led me to build hands-on projects across customer analytics, healthcare analytics, and retail inventory management using SQL, Python, Power BI, and Excel. Through these projects, I have gained practical experience in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and transforming raw data into actionable business insights.
+Through hands-on projects in customer analytics, healthcare analytics, and retail inventory management, I have developed practical experience in SQL, Python, Power BI, and business-focused data analysis. My work has involved data cleaning, exploratory data analysis, dashboard development, KPI reporting, and transforming raw data into actionable business insights.
 
-I enjoy analyzing data to uncover patterns, solve business problems, and support data-driven decision-making. My goal is to leverage analytical thinking, technical skills, and business understanding to help organizations make informed decisions and improve performance.
+I enjoy working with data to uncover patterns, solve business problems, and support data-driven decision-making. My goal is to leverage analytical thinking, technical skills, and business understanding to help organizations make informed decisions and improve performance.
 
-Currently, I am focused on strengthening my expertise in data analytics, business intelligence, and visualization while continuously expanding my portfolio through real-world analytics projects.
+Currently, I am focused on strengthening my expertise in data analytics, business intelligence, and data visualization while continuously expanding my portfolio through real-world analytics projects.
 
 ---
 
@@ -38,25 +38,25 @@ Currently, I am focused on strengthening my expertise in data analytics, busines
 
 ## 📂 Featured Projects
 
-### Customer Revenue Intelligence: Analyzing Spending Behavior and Loyalty Drivers
+### [Customer Revenue Intelligence: Analyzing Spending Behavior and Loyalty Drivers](https://github.com/aleena2703/customer-revenue-intelligence)
 
-🔗 [View Project](https://github.com/aleena2703/customer-revenue-intelligence)
+Analyzed 3,900 customer shopping records to identify revenue drivers, loyalty patterns, promotional effectiveness, and customer retention opportunities through SQL analysis, Python-based exploratory data analysis, and Power BI dashboard reporting.
 
-### Healthcare Cost & Patient Risk Analysis
+### [Healthcare Cost & Patient Risk Analysis](https://github.com/aleena2703/healthcare-cost-patient-risk-analysis)
 
-🔗 [View Project](https://github.com/aleena2703/healthcare-cost-patient-risk-analysis)
+Analyzed 54,966 healthcare records to identify healthcare cost drivers, patient risk segments, insurance billing trends, abnormal test result patterns, and operational improvement opportunities using SQL, Python, Excel, and Power BI.
 
-### Retail Inventory Optimization: Identifying Stock Risks, Pricing Trends, and Inventory Opportunities
+### [Retail Inventory Optimization: Identifying Stock Risks, Pricing Trends, and Inventory Opportunities](https://github.com/aleena2703/retail_inventory_optimization)
 
-🔗 [View Project](https://github.com/aleena2703/retail_inventory_optimization)
+Analyzed 3,732 retail inventory records to identify stockout risks, low-stock products, inventory value distribution, category-level performance, and pricing trends to support inventory planning and replenishment decisions using SQL and Power BI.
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [aleenajoseph2703@gmail.com](mailto:aleenajoseph2703@gmail.com)
+📧 [Email](mailto:aleenajoseph2703@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/aleena-joseph2703
+💼 [LinkedIn](https://www.linkedin.com/in/aleena-joseph2703)
 
-💻 GitHub: github.com/aleena2703
+💻 [GitHub](https://github.com/aleena2703)
 
